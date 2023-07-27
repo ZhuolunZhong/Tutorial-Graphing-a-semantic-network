@@ -1,0 +1,13 @@
+dog
+cat
+panda
+horse
+bird
+tiger
+wolf
+fish
+pig
+buffalo
+chicken
+duck
+rat
